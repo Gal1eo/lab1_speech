@@ -7,4 +7,4 @@ This is the function and modual files for lab1 Feature Extraction
 • compare utterances with Dynamic Time Warping\
 • illustrate the discriminative power of the features with respect to words\
 • perform hierarchical clustering of utterances\
-• train and analyze a Gaussian Mixture Model of the feature vectors.\
+• train and analyze a Gaussian Mixture Model of the feature vectors.
